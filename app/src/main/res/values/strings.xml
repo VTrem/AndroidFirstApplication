@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bye_world">Bye world!</string>
+    <string name="label">Todo:</string>
+    <string name="ok_button">Ok!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_todo">TodoActivity</string>
+
+</resources>
